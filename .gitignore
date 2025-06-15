@@ -1,1 +1,6 @@
 cell_dataset/
+notebooks/data_split/
+
+*.png
+*.jpg
+*.jpeg
