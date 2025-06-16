@@ -1,7 +1,9 @@
 # malaria-classification
 # DenseNet for Malaria Life-Cycle Stage Classification
 
-This repository demonstrates how to train and evaluate a DenseNet121 model to recognize malaria life-cycle stages in thin blood smear images.
+Link to notebook in Kaggle : {https://www.kaggle.com/code/eliahsand/notebook33a505f284/edit}
+
+Model for classification of malaria in cell images.
 
 ## DenseNet Architecture
 
